@@ -1,6 +1,6 @@
 {
   "name": "Badge NFT",
-  "symbol": "",
+  "symbol": "DFTY",
   "description": "This is your NFT badge. It’s minted identically for everyone.",
   "seller_fee_basis_points": 500,
   "image": "0.png",
